@@ -1,0 +1,5 @@
+﻿  Main.cpp
+e:\repertorio de intentos (visual c++)\algebralineal-master\tp\tp\main.cpp(114): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+e:\repertorio de intentos (visual c++)\algebralineal-master\tp\tp\main.cpp(153): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+e:\repertorio de intentos (visual c++)\algebralineal-master\tp\tp\main.cpp(179): warning C4244: '=': conversión de 'double' a 'int'; posible pérdida de datos
+  TP.vcxproj -> E:\Repertorio de intentos (Visual C++)\AlgebraLineal-master\TP\x64\Debug\TP.exe
